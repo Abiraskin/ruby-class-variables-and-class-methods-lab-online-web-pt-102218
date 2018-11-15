@@ -18,7 +18,7 @@ class Song
     @@count
   end
 
-  def sef.artists
+  def self.artists
     @@artists
-  end  
+  end
 end
