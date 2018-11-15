@@ -14,6 +14,6 @@ class Song
 end
 
 Song.new
-song.name = "One Day"
-song.artist = "Matisyahu"
-song.genre = "Reggae"
+Song.name = "One Day"
+Song.artist = "Matisyahu"
+Song.genre = "Reggae"
