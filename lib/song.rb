@@ -2,13 +2,13 @@ class Song
 
   attr_accessor :name, :artist, :genre
 
-  def @@album_count = 0
+  @@song_count = 0
 
   def initialize
-    @@album_count += 1
+    @@song_count += 1
   end
-    
+
   def self.count
-    @@album_count
+    @@song_count
   end
 end    
