@@ -12,3 +12,8 @@ class Song
     @@song_count
   end
 end
+
+Song.new
+song.name = "One Day"
+song.artist = "Matisyahu"
+song.genre = "Reggae"
