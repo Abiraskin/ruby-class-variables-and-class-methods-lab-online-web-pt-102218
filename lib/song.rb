@@ -19,8 +19,7 @@ class Song
     @@count
   end
 
-one_day = Song.new
 
 end
 
-one_day = Song.new
+
