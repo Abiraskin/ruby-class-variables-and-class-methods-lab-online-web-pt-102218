@@ -14,4 +14,3 @@ class Song
 end
 
 one_day = Song.new
-
